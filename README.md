@@ -16,7 +16,7 @@ Java, MySQL, Swing
 
 \## Desenvolvedor
 
-Seu nome
+David Lima Vieira
 
 
 
